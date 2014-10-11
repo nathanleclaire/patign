@@ -63,7 +63,7 @@ $ git status
 It's hard to parse the modified files.  Can't they be more nicely formatted?  With `patign`, they can.
 
 ```sh
-$ git status | ./patign "-"
+$ git status | patign "-"
 # On branch master
 # Your branch is ahead of 'origin/master' by 1 commit.
 #   (use "git push" to publish your local commits)
