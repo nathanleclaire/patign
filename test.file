@@ -1,0 +1,7 @@
+"aws_resource" "droplet" {
+    "ip" = "54.23.62.11"
+    "foo" = "bar"
+    "quuuuuuuuuuuuuux" = "spam"
+    "amazon_secret_key" = "ASDFASDFASDFASDFASDFASDF"
+    "amazon_id" = "asdffad,fdsa?"
+}
